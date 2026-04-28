@@ -1,7 +1,7 @@
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Замени на свой токен от @BotFather
+BOT_TOKEN = "8776974689:AAHmK-Ekn39cvYAOTjkwKZWGsNWBBUKPhIo"  # Замени на свой токен от @BotFather
 
 # ID администратора (твой Telegram user_id)
-ADMIN_IDS = [123456789]  # Замени на свой ID
+ADMIN_IDS = [7950038145]  # Замени на свой ID
 
 # Лимиты ставок по умолчанию
 DEFAULT_MIN_BET = 10
